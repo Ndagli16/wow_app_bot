@@ -1,0 +1,8 @@
+# ignore bot auth link
+link.txt
+
+# ignore all txt files
+*.txt
+
+# ignore node modules
+node_modules/
